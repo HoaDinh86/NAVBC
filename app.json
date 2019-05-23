@@ -1,0 +1,93 @@
+{
+  "id": "a186c2b4-7961-4219-aed7-75173f085ef6",
+  "name": "HD Extensions",
+  "publisher": "HD",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [
+    {
+      "name": "Essential Business Headlines",
+      "publisher": "Microsoft",
+      "version": "1.0.25940.0",
+      "appId": "2a89f298-7ffd-44a5-a7ce-e08dac98abce"
+    },
+    {
+      "name": "Intelligent Cloud Base",
+      "publisher": "Microsoft",
+      "version": "1.0.25940.0",
+      "appId": "58623bfa-0559-4bc2-ae1c-0979c29fd9e0"
+    },
+    {
+      "name": "Business Central Intelligent Cloud",
+      "publisher": "Microsoft",
+      "version": "1.0.25940.0",
+      "appId": "334ef79e-547e-4631-8ba1-7a7f18e14de6"
+    },
+    {
+      "name": "_Exclude_ClientAddIns_",
+      "publisher": "Microsoft",
+      "version": "1.0.25940.0",
+      "appId": "8b3609cf-3947-44c3-9f20-ce6edc6da33f"
+    },
+    {
+      "name": "WorldPay Payments Standard",
+      "publisher": "Microsoft",
+      "version": "2.0.25940.0",
+      "appId": "bae453ed-0fd8-4416-afdc-4b09db6c12c3"
+    },
+    {
+      "name": "Quickbooks Payroll File Import",
+      "publisher": "Microsoft",
+      "version": "2.0.25940.0",
+      "appId": "bc45ae22-3b5b-44b5-beb4-2a42bf79cc34"
+    },
+    {
+      "name": "Sales and Inventory Forecast",
+      "publisher": "Microsoft",
+      "version": "2.0.25940.0",
+      "appId": "c526b3e9-b8ca-4683-81ba-fcd5f6b1472a"
+    },
+    {
+      "name": "PayPal Payments Standard",
+      "publisher": "Microsoft",
+      "version": "2.0.25940.0",
+      "appId": "d09fa965-9a2a-424d-b704-69f3b54ed0ce"
+    },
+    {
+      "name": "Envestnet Yodlee Bank Feeds",
+      "publisher": "Microsoft",
+      "version": "2.0.25940.0",
+      "appId": "e2743298-9ccb-49cd-9d8e-4b2d1ab91d36"
+    },
+    {
+      "name": "Image Analyzer",
+      "publisher": "Microsoft",
+      "version": "1.0.25940.0",
+      "appId": "e868ad92-21b8-4e08-af2b-8975a8b06e04"
+    },
+    {
+      "name": "GetAddress.io UK Postcodes",
+      "publisher": "Microsoft",
+      "version": "2.0.25940.0",
+      "appId": "f778a784-c01c-4f35-a409-331e7803e69c"
+    }
+  ],
+  "screenshots": [],
+  "platform": "13.0.12929.0",
+  "application": "13.1.25940.0",
+  "target": "Extension",
+  "showMyCode": true,
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0",
+  "features": ["TranslationFile"]
+}

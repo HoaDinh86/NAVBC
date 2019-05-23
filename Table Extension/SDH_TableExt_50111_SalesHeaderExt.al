@@ -7,6 +7,10 @@ tableextension 50111 "Sales Header extension" extends "Sales Header"
             DataClassification = ToBeClassified;
             TableRelation = "Source Of Sales".Code where (Blocked = CONST (false));
         }
+        field(50001; Test; Integer)
+        {
+            DataClassification = ToBeClassified;
+        }
     }
 
     var
